@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robotry-entrypage/static/css/main.5f361e03.chunk.css",
+    "main.js": "/robotry-entrypage/static/js/main.b297744d.chunk.js",
+    "main.js.map": "/robotry-entrypage/static/js/main.b297744d.chunk.js.map",
+    "runtime-main.js": "/robotry-entrypage/static/js/runtime-main.8c8c5865.js",
+    "runtime-main.js.map": "/robotry-entrypage/static/js/runtime-main.8c8c5865.js.map",
+    "static/js/2.bcf738bb.chunk.js": "/robotry-entrypage/static/js/2.bcf738bb.chunk.js",
+    "static/js/2.bcf738bb.chunk.js.map": "/robotry-entrypage/static/js/2.bcf738bb.chunk.js.map",
+    "index.html": "/robotry-entrypage/index.html",
+    "precache-manifest.121fb3c3f3d10162d2d59c5fe36209de.js": "/robotry-entrypage/precache-manifest.121fb3c3f3d10162d2d59c5fe36209de.js",
+    "service-worker.js": "/robotry-entrypage/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/robotry-entrypage/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bcf738bb.chunk.js.LICENSE.txt": "/robotry-entrypage/static/js/2.bcf738bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/robotry-entrypage/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c8c5865.js",
+    "static/js/2.bcf738bb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b297744d.chunk.js"
+  ]
+}
